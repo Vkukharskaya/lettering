@@ -1,0 +1,20 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Mukta+Vaani');
+
+
+/* Styling */
+
+
+body {
+    background: lightblue;
+}
+
+h2 {
+    font-size: 5em;
+}
+
+h2 span:nth-child(odd) {
+  color: coral;
+  font-family: 'Mukta Vaani', sans-serif;
+} 
